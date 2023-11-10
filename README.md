@@ -12,7 +12,7 @@ A few assumptions:
 
 # What is this really?
 1. The first component is a repository of content, on github perhaps, that anyone can use, either by download or fetching the data.
-2. The second is the aspiration that an open source, publicly maintained body of architectural content can be accessed by anyone that wants to build a frontend that allows end users to edit and manipulate the content. Developers are allowed to distribute their service for free or for a fee (one time or subscription model). Increased competition could create better ui/ux (most of them are pretty clunky), and lower pricing.
+2. The second is the aspiration that an open source, publicly maintained body of architectural content can be accessed by anyone that wants to build a frontend that allows end users to edit and manipulate the content. Developers are allowed to distribute their service for free or for a fee (one time or subscription model). Increased competition could create better ui/ux (most of them are pretty clunky), and lower pricing. The content in it's raw form is always available of course. I imagine the first instance of a service would allow people to download a word file of any section.
 
 # An Analogy
 Need to think of one...
