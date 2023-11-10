@@ -6,7 +6,7 @@ As with most software, we've moved from one time fees for services and content t
 This proprietary specification content in a lot of ways is actually open knowledge. It is general information, although technical, and references publicly available building codes and material testing certifications. We're also dealing with commodities: concrete, lumber, steel, glass etc. Many of our building products have become more product than commodity over time, but companies readily provide specifications free to use. The caveat being that it's written for their products.
 
 A few assumptions:
-- That there would be the interest and energy in maintaining the core specification content and that it could be made by volunteers.
+- That there would be the interest and energy in maintaining the core specification content.
 - A growing trend of separating content from it's access and use (jamstack, headless cms, etc.).
 - That there would be interest and potential profit in the creation of front-ends for the content.
 
