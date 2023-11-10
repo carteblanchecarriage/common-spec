@@ -8,7 +8,7 @@ This proprietary specification content in a lot of ways is actually open knowled
 A few assumptions:
 - That there would be the interest and energy in maintaining the core specification content.
 - A growing trend of separating content from it's access and use (jamstack, headless cms, etc.).
-- That there would be interest and potential profit in the creation of front-ends for the content.
+- That there would be interest and potential profit in the creation of frontends for the content.
 
 # What is this really?
 1. The first component is a repository of content, on github perhaps, that anyone can use, either by download for fetching that data.
