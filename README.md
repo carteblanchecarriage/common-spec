@@ -11,7 +11,7 @@ A few assumptions:
 - That there would be interest and potential profit in the creation of frontends for the content.
 
 # What is this really?
-1. The first component is a repository of content, on github perhaps, that anyone can use, either by download for fetching that data.
+1. The first component is a repository of content, on github perhaps, that anyone can use, either by download or fetching the data.
 2. The second is the aspiration that an open source, publicly maintained body of architectural content can be accessed by anyone that wants to build a frontend that allows end users to edit and manipulate the content. Developers are allowed to distribute their service for free or for a fee (one time or subscription model). Increased competition could create better ui/ux (most of them are pretty clunky), and lower pricing.
 
 # An Analogy
